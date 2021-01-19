@@ -13,6 +13,8 @@ __pycache__/
 *.sublime-project
 *.sublime-workspace
 
+settings_local.py
+
 posts/static/
 media/
 
